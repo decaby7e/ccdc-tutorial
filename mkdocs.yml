@@ -1,1 +1,31 @@
-site_name: My Docs
+site_name: UFSIT CCDC Tutorial
+
+repo_name: decaby7e/ccdc-tutorial
+repo_url: https://github.com/decaby7e/ccdc-tutorial
+edit_uri: "https://github.com/decaby7e/ccdc-tutorial/edit/master/docs"
+
+nav:
+  - Getting Started: index.md
+  - Competition Info:
+    - Resources: competition/resources.md
+    - Important Dates: competition/itenerary.md
+    - Team Members: competition/team.md
+  - Competition Preperation:
+    - 1. Technical Fundamentals: placeholder.md
+    - 2. Software Security: placeholder.md
+    - 3. Network Security: placeholder.md
+    - 4. Business Affairs: placeholder.md
+
+theme:
+  name: material
+  logo: assets/images/sit.png
+  favicon: assets/images/sit.png
+  features:
+    - navigation.tabs
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - mdx_truly_sane_lists

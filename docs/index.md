@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Welcome to the Team!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the UFSIT CCDC competition team! This site will act as a central
+source of resources, references, and tutorials in preperation for the
+competition.
 
-## Commands
+## Discord
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+You can join the Discord server [here](https://discord.gg/ksScYMs8N9). This is
+where all discussions and important announcements relating to the team and our
+preperations will go. An account is not required to use Discord but is highly
+reccomended.

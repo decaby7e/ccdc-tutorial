@@ -14,6 +14,8 @@
 
 ## Competition Info
 
+[SECCDC Website](https://cyberinstitute.kennesaw.edu/seccdc/index.php)
+
 [Latest Rules](https://cyberinstitute.kennesaw.edu/seccdc/docs/rules.pdf)
 
 ## Meeting Recordings
